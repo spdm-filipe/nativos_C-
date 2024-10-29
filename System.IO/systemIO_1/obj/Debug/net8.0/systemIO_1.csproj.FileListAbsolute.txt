@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\bin\Debug\net8.0\systemIO_1.exe
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\bin\Debug\net8.0\systemIO_1.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\bin\Debug\net8.0\systemIO_1.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\bin\Debug\net8.0\systemIO_1.dll
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\bin\Debug\net8.0\systemIO_1.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.dll
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\refint\systemIO_1.dll
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\systemIO_1.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.IO\systemIO_1\obj\Debug\net8.0\ref\systemIO_1.dll

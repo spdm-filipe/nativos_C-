@@ -1,0 +1,42 @@
+1. System.IO
+Utilidade: Manipulação de arquivos e diretórios.
+Estudo: Classes como File, Directory, FileStream, StreamReader, StreamWriter.
+2. System.Net.Http
+Utilidade: Realização de requisições HTTP.
+Estudo: HttpClient, HttpRequestMessage, HttpResponseMessage.
+3. System.Linq
+Utilidade: Consultas e manipulação de coleções em memória.
+Estudo: Operadores de consulta LINQ, como Where, Select, GroupBy, OrderBy.
+4. System.Text.Json
+Utilidade: Serialização e desserialização de JSON.
+Estudo: JsonSerializer, opções de configuração, manipulação de JSON.
+5. System.Threading.Tasks
+Utilidade: Programação assíncrona e paralelismo.
+Estudo: Task, async, await, Parallel, CancellationToken.
+6. System.Collections.Generic
+Utilidade: Estruturas de dados genéricas, como listas e dicionários.
+Estudo: List<T>, Dictionary<TKey, TValue>, Queue<T>, Stack<T>.
+7. System.Data.SqlClient
+Utilidade: Conexão e execução de comandos no SQL Server.
+Estudo: SqlConnection, SqlCommand, SqlDataReader, SqlParameter.
+8. System.ComponentModel.DataAnnotations
+Utilidade: Validações de dados em classes de modelos.
+Estudo: Atributos como Required, StringLength, Range, RegularExpression.
+9. System.Diagnostics
+Utilidade: Ferramentas para diagnósticos e monitoramento de código.
+Estudo: Debug, Trace, Stopwatch, PerformanceCounter.
+10. System.Globalization
+Utilidade: Manipulação de dados relacionados a cultura, formatação e internacionalização.
+Estudo: CultureInfo, NumberFormatInfo, DateTimeFormatInfo.
+11. System.Security.Cryptography
+Utilidade: Criptografia e segurança.
+Estudo: Hashing (SHA256, MD5), Criptografia simétrica e assimétrica (RSA, AES).
+12. System.Xml
+Utilidade: Manipulação de XML.
+Estudo: XmlDocument, XmlReader, XmlWriter, XPath, XDocument (Linq-to-XML).
+13. System.Text.RegularExpressions
+Utilidade: Manipulação e busca de padrões usando expressões regulares.
+Estudo: Regex e seus métodos como Match, Matches, Replace.
+14. System.Net.Mail
+Utilidade: Envio de e-mails.
+Estudo: SmtpClient, MailMessage, MailAddress.

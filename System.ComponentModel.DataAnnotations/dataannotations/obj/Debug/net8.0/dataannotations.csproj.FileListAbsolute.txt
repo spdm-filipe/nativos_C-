@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\bin\Debug\net8.0\dataannotations.exe
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\bin\Debug\net8.0\dataannotations.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\bin\Debug\net8.0\dataannotations.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\bin\Debug\net8.0\dataannotations.dll
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\bin\Debug\net8.0\dataannotations.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.dll
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\refint\dataannotations.dll
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\dataannotations.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.ComponentModel.DataAnnotations\dataannotations\obj\Debug\net8.0\ref\dataannotations.dll

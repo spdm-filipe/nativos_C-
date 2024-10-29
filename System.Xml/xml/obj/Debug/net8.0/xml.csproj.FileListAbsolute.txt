@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\bin\Debug\net8.0\xml.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\bin\Debug\net8.0\xml.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\bin\Debug\net8.0\xml.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\bin\Debug\net8.0\xml.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\bin\Debug\net8.0\xml.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\refint\xml.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\xml.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Xml\xml\obj\Debug\net8.0\ref\xml.dll

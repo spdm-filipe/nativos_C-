@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\bin\Debug\net8.0\BolsaDeValores.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\bin\Debug\net8.0\BolsaDeValores.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\bin\Debug\net8.0\BolsaDeValores.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\bin\Debug\net8.0\BolsaDeValores.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\bin\Debug\net8.0\BolsaDeValores.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\refint\BolsaDeValores.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\BolsaDeValores.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\BolsaDeValores\obj\Debug\net8.0\ref\BolsaDeValores.dll

@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\bin\Debug\net8.0\criptografia.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\bin\Debug\net8.0\criptografia.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\bin\Debug\net8.0\criptografia.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\bin\Debug\net8.0\criptografia.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\bin\Debug\net8.0\criptografia.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\refint\criptografia.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\criptografia.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Security.Cryptography\criptografia\obj\Debug\net8.0\ref\criptografia.dll

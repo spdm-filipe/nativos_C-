@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFr6uj6h2EMSTFC9hTDgI0GCJNvrfiPDixkHsiKscXM0cPfP+jXT9GxoPTZbjJe7Zj7HuhNl19iDVikB5Fwiqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filipe.chaves\\Desktop\\C#\\System.Net.Http\\HttpClient\\HttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filipe.chaves\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

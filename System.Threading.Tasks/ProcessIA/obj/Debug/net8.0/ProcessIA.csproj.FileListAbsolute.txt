@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\bin\Debug\net8.0\ProcessIA.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\bin\Debug\net8.0\ProcessIA.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\bin\Debug\net8.0\ProcessIA.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\bin\Debug\net8.0\ProcessIA.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\bin\Debug\net8.0\ProcessIA.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\refint\ProcessIA.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ProcessIA.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Threading.Tasks\ProcessIA\obj\Debug\net8.0\ref\ProcessIA.dll

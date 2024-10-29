@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\bin\Debug\net8.0\globalization.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\bin\Debug\net8.0\globalization.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\bin\Debug\net8.0\globalization.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\bin\Debug\net8.0\globalization.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\bin\Debug\net8.0\globalization.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\refint\globalization.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\globalization.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Globalization\globalization\obj\Debug\net8.0\ref\globalization.dll

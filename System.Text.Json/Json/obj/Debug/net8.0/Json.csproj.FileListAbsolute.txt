@@ -1,0 +1,14 @@
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\bin\Debug\net8.0\Json.exe
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\bin\Debug\net8.0\Json.deps.json
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\bin\Debug\net8.0\Json.runtimeconfig.json
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\bin\Debug\net8.0\Json.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\bin\Debug\net8.0\Json.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.AssemblyInfoInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.AssemblyInfo.cs
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\refint\Json.dll
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.pdb
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\Json.genruntimeconfig.cache
+C:\Users\filipe.chaves\Desktop\C#\System.Text.Json\Json\obj\Debug\net8.0\ref\Json.dll
